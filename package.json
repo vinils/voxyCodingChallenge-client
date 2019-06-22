@@ -1,8 +1,10 @@
 {
-  "name": "voxycodingchallenge",
-  "private": true,
+  "name": "voxyCodingChallenge-client",
   "main": "index.js",
   "version": "0.0.1",
+  "description": "voxy coding challenge",
+  "repository": "https://github.com/vinils/voxyCodingChallenge-client",
+  "author": "VLS",
   "scripts": {
     "rn-cli": "node scripts/react-native.js",
     "start:android": "yarn rn-cli run-android",

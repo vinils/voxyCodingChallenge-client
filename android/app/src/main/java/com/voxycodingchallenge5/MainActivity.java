@@ -1,4 +1,4 @@
-package com.voxycodingchallenge;
+package com.voxycodingchallenge5;
 
 import com.facebook.react.ReactActivity;
 

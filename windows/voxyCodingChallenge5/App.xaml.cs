@@ -1,6 +1,6 @@
 using ReactNative;
 
-namespace voxyCodingChallenge
+namespace voxyCodingChallenge5
 {
     /// <summary>
     /// Provides application-specific behavior to supplement the default Application class.

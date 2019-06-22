@@ -7,14 +7,14 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="2705c9dd-a129-4558-a90d-cc51298284be"
+    Name="c1e7e8a2-8f79-49c7-af71-087f8e915c32"
     Publisher="CN=MyUser"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="2705c9dd-a129-4558-a90d-cc51298284be" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="c1e7e8a2-8f79-49c7-af71-087f8e915c32" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>voxyCodingChallenge</DisplayName>
+    <DisplayName>voxyCodingChallenge5</DisplayName>
     <PublisherDisplayName>React Native for UWP</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -30,12 +30,12 @@
   <Applications>
     <Application Id="App"
       Executable="$targetnametoken$.exe"
-      EntryPoint="voxyCodingChallenge.App">
+      EntryPoint="voxyCodingChallenge5.App">
       <uap:VisualElements
-        DisplayName="voxyCodingChallenge"
+        DisplayName="voxyCodingChallenge5"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png"
-        Description="voxyCodingChallenge"
+        Description="voxyCodingChallenge5"
         BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png"/>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />
