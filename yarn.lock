@@ -8771,6 +8771,13 @@ simple-plist@^1.0.0:
     bplist-parser "0.1.1"
     plist "^3.0.1"
 
+simplerestclients@^0.2.7:
+  version "0.2.12"
+  resolved "https://registry.yarnpkg.com/simplerestclients/-/simplerestclients-0.2.12.tgz#d4e6499275f5b986f68715ea521957db24324917"
+  integrity sha512-14gn4J2xvCQARTzdW4DwD1v135huIKt22uaIk8mfjN9d0ZPSCkIMNESckiC5nntKicY8wE8bBZdtWurBZCwV9A==
+  dependencies:
+    synctasks "^0.3.3"
+
 sisteransi@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/sisteransi/-/sisteransi-1.0.0.tgz#77d9622ff909080f1c19e5f4a1df0c1b0a27b88c"
@@ -9422,9 +9429,9 @@ typescript@3.5.1:
   integrity sha512-64HkdiRv1yYZsSe4xC1WVgamNigVYjlssIoaH2HcZF0+ijsk5YK2g0G34w9wJkze8+5ow4STd22AynfO6ZYYLw==
 
 ua-parser-js@^0.7.18:
-  version "0.7.20"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.20.tgz#7527178b82f6a62a0f243d1f94fd30e3e3c21098"
-  integrity sha512-8OaIKfzL5cpx8eCMAhhvTlft8GYF8b2eQr6JkCyVdrgjcytyOmPCXrqXFcUnhonRpLlh5yxEZVohm6mzaowUOw==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 uglify-es@^3.1.9:
   version "3.3.9"
