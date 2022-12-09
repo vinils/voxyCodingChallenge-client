@@ -7779,9 +7779,9 @@ qs@6.7.0:
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 querystring-es3@^0.2.0:
   version "0.2.1"
@@ -8770,6 +8770,13 @@ simple-plist@^1.0.0:
     bplist-creator "0.0.7"
     bplist-parser "0.1.1"
     plist "^3.0.1"
+
+simplerestclients@^0.2.7:
+  version "0.2.12"
+  resolved "https://registry.yarnpkg.com/simplerestclients/-/simplerestclients-0.2.12.tgz#d4e6499275f5b986f68715ea521957db24324917"
+  integrity sha512-14gn4J2xvCQARTzdW4DwD1v135huIKt22uaIk8mfjN9d0ZPSCkIMNESckiC5nntKicY8wE8bBZdtWurBZCwV9A==
+  dependencies:
+    synctasks "^0.3.3"
 
 sisteransi@^1.0.0:
   version "1.0.0"
